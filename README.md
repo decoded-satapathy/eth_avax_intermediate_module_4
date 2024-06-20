@@ -9,6 +9,7 @@ Degen Gaming has chosen the Avalanche blockchain for this project, leveraging it
 ## Video Demonstration
 
 https://www.loom.com/share/9ed6f0bf258d4b4ea5be87e5a9dce21d?sid=b888ce24-9d54-4567-b8a5-09f00005aa36
+
 [Video on loom](https://www.loom.com/share/9ed6f0bf258d4b4ea5be87e5a9dce21d?sid=b888ce24-9d54-4567-b8a5-09f00005aa36)
 
 ## Steps to install and run this project
