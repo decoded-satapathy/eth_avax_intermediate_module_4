@@ -31,7 +31,7 @@ https://www.loom.com/share/9ed6f0bf258d4b4ea5be87e5a9dce21d?sid=b888ce24-9d54-45
    npx hardhat compile && npx hardhat ignition deploy ./ignition/modules/DegenGamingToken.js --network fuji
    ```
 7. Copy the deployed contract address and paste it into testnet.snowtrace.io to verify the contract.
-8. Open Remix IDE and navigate to the Deploy and Run Transactions section.
+8. Open [Remix IDE](https://remix.ethereum.org/) and navigate to the Deploy and Run Transactions section.
 9. Select `Injected Provider: MetaMask` (or your chosen wallet) in the dropdown and set the owner account.
 10. Use the "At Address" feature in Remix to interact with your deployed contract. Paste the contract address in the input box and click "At Address" to bring up the UI for interacting with your contract.
 
